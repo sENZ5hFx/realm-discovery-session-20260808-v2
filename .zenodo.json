@@ -1,1 +1,11 @@
-{"title":"realm-discovery-session-20260808-v2","description":"Realm Discovery Engine session log 2026-08-08 continuous workflow execution","upload_type":"software","creators":[{"name":"Bird, Haley Ann","affiliation":"Independent"}]}
+{
+  "creators": [
+    {
+      "affiliation": "Independent",
+      "name": "Bird, Haley Ann"
+    }
+  ],
+  "description": "Realm Discovery Engine session log 2026-08-08 continuous workflow execution",
+  "publication_date": "2026-08-08",
+  "title": "realm-discovery-session-20260808-v2"
+}
