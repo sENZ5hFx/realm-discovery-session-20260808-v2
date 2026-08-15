@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: 'If you use this repository, please cite it using the metadata in this file.'
+title: realm-discovery-session-20260808-v2
+type: software
+authors:
+  - given-names: Haley Ann
+    family-names: Bird
+    email: heyhaleybird@gmail.com
+    affiliation: Independent
+repository-code: https://github.com/sENZ5hFx/realm-discovery-session-20260808-v2
+url: https://github.com/sENZ5hFx/realm-discovery-session-20260808-v2
+date-released: 2026-08-08
+abstract: Realm Discovery Engine session log 2026-08-08 continuous workflow execution
