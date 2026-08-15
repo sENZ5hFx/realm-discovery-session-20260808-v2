@@ -3,7 +3,7 @@ message: 'If you use this repository, please cite it using the metadata in this 
 title: realm-discovery-session-20260808-v2
 type: software
 version: "0.1.0"
-license: SEE_LICENSE_FILE
+license: BSL-1.1
 keywords:
   - realm discovery
   - research session
