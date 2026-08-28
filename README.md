@@ -1,18 +1,9 @@
-# realm-discovery-session-20260808-v2
+# Historical public research record — disclosure review
 
-Realm Discovery Engine continuous-workflow session record — 2026-08-08.
+This repository contains an AI-assisted research-session record that was previously made public.
 
-## Scope
+The current default branch has been intentionally minimized while disclosure and protection strategy are reviewed. Detailed material from earlier public commits remains part of the historical public record; this change does **not** undo or retract prior disclosure.
 
-This repository preserves a later session/version of an AI-assisted exploratory workflow for surfacing candidate cross-domain patterns and research directions.
+No current statement here should be treated as proof of novelty, scientific validation, peer review, patentability, filing status, patent-pending status, or legal priority.
 
-## Evidence boundary
-
-- Workflow output is exploratory and may include inference, incomplete source coverage, or hypotheses that do not survive independent review.
-- “Discovery” is a workflow label, not a claim of external scientific novelty.
-- Material factual and novelty claims should be checked against primary sources and current literature.
-- Git timestamps preserve chronology only and do not establish peer review, experimental validation, filing status, or legal priority.
-
-## Intended use
-
-Treat this as a versioned research-session record.
+Historical commits are preserved for provenance and future review. No additional detailed research or enabling mechanics should be added to the public branch without an explicit disclosure decision.
